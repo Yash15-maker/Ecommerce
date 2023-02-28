@@ -1,0 +1,15 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+
+  padding: 10px;
+  background-color: black;
+  position: static;
+  box-shadow: 10px;
+}
+.navbar-cart {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}

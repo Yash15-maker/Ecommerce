@@ -1,0 +1,28 @@
+.features{
+    padding: 50px 12%;
+    font-size: 22px;
+    background-color: bisque;
+}
+
+.row{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 50px 0;
+}
+.text-col{
+    flex-basis: 50%;
+    margin-bottom: 20px;
+}
+
+.img-col{
+    flex-basis: 50%;
+    margin-bottom: 20px;
+}
+
+.img-col img{
+    display: block;
+    width: 80%;
+    margin:"auto"
+}
