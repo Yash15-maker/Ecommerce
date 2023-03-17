@@ -1,4 +1,4 @@
-About 25,30,00,000 results (0.32 seconds) 
+
 Ecommerce or electronic commerce is the trading of goods and services on the internet. It is your bustling city center or brick-and-mortar shop translated into zeroes and ones on the internet superhighway.
 
 <img width="727" alt="image" src="https://user-images.githubusercontent.com/64361746/222253906-1b84f96c-4a92-42f7-afd3-69412e6b75d6.png">
